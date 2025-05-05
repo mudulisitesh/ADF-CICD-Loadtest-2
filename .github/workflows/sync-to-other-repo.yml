@@ -1,0 +1,29 @@
+name: Sync All Branches to Destination Repo
+
+on:
+  push:
+    branches:
+      - '**'  # Trigger on all branches
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout all branches
+        uses: actions/checkout@v3
+        with:
+          fetch-depth: 0  # Fetch full history
+          ref: ${{ github.ref }}
+
+      - name: Mirror to destination repo
+        run: |
+          git config --global user.email "mudulisitesh@gmail.com"
+          git config --global user.name "Sitesh"
+
+          git remote add dest https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/mudulisitesh/ADF-CICD-Loadtest.git
+          # Push the current branch
+          git push dest ${{ github.ref_name }} --force
+
+          # Optionally push all branches:
+          # git push dest --all --force
