@@ -1,4 +1,4 @@
-name: Sync All Branches to Destination Repo
+name: Sync All Branches to ADF-CICD-Loadtest-2
 
 on:
   push:
@@ -10,20 +10,21 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout all branches
+      - name: Checkout full source repo
         uses: actions/checkout@v3
         with:
-          fetch-depth: 0  # Fetch full history
+          fetch-depth: 0  # Full history for all branches
           ref: ${{ github.ref }}
 
-      - name: Mirror to destination repo
+      - name: Configure Git identity
         run: |
           git config --global user.email "mudulisitesh@gmail.com"
-          git config --global user.name "Sitesh"
+          git config --global user.name "Sitesh Muduli"
 
+      - name: Add remote for destination repo
+        run: |
           git remote add dest https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/mudulisitesh/ADF-CICD-Loadtest-2.git
-          # Push the current branch
-          git push dest ${{ github.ref_name }} --force
 
-          # Optionally push all branches:
-          # git push dest --all --force
+      - name: Push current branch to destination
+        run: |
+          git push dest ${{ github.ref_name }} --force
