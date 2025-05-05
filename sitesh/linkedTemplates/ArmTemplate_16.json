@@ -13,7 +13,7 @@
 	},
 	"resources": [
 		{
-			"name": "[concat(parameters('factoryName'), '/Complex_Pipeline_2_copy317')]",
+			"name": "[concat(parameters('factoryName'), '/Complex_Pipeline_2_copy9')]",
 			"type": "Microsoft.DataFactory/factories/pipelines",
 			"apiVersion": "2018-06-01",
 			"properties": {
@@ -145,7 +145,7 @@
 			"dependsOn": []
 		},
 		{
-			"name": "[concat(parameters('factoryName'), '/Complex_Pipeline_2_copy318')]",
+			"name": "[concat(parameters('factoryName'), '/Complex_Pipeline_2_copy90')]",
 			"type": "Microsoft.DataFactory/factories/pipelines",
 			"apiVersion": "2018-06-01",
 			"properties": {
@@ -277,7 +277,7 @@
 			"dependsOn": []
 		},
 		{
-			"name": "[concat(parameters('factoryName'), '/Complex_Pipeline_2_copy319')]",
+			"name": "[concat(parameters('factoryName'), '/Complex_Pipeline_2_copy91')]",
 			"type": "Microsoft.DataFactory/factories/pipelines",
 			"apiVersion": "2018-06-01",
 			"properties": {
@@ -409,7 +409,7 @@
 			"dependsOn": []
 		},
 		{
-			"name": "[concat(parameters('factoryName'), '/Complex_Pipeline_2_copy320')]",
+			"name": "[concat(parameters('factoryName'), '/Complex_Pipeline_2_copy92')]",
 			"type": "Microsoft.DataFactory/factories/pipelines",
 			"apiVersion": "2018-06-01",
 			"properties": {
@@ -541,7 +541,7 @@
 			"dependsOn": []
 		},
 		{
-			"name": "[concat(parameters('factoryName'), '/Complex_Pipeline_2_copy321')]",
+			"name": "[concat(parameters('factoryName'), '/Complex_Pipeline_2_copy93')]",
 			"type": "Microsoft.DataFactory/factories/pipelines",
 			"apiVersion": "2018-06-01",
 			"properties": {
@@ -673,7 +673,7 @@
 			"dependsOn": []
 		},
 		{
-			"name": "[concat(parameters('factoryName'), '/Complex_Pipeline_2_copy322')]",
+			"name": "[concat(parameters('factoryName'), '/Complex_Pipeline_2_copy94')]",
 			"type": "Microsoft.DataFactory/factories/pipelines",
 			"apiVersion": "2018-06-01",
 			"properties": {
@@ -805,7 +805,7 @@
 			"dependsOn": []
 		},
 		{
-			"name": "[concat(parameters('factoryName'), '/Complex_Pipeline_2_copy323')]",
+			"name": "[concat(parameters('factoryName'), '/Complex_Pipeline_2_copy95')]",
 			"type": "Microsoft.DataFactory/factories/pipelines",
 			"apiVersion": "2018-06-01",
 			"properties": {
@@ -937,7 +937,7 @@
 			"dependsOn": []
 		},
 		{
-			"name": "[concat(parameters('factoryName'), '/Complex_Pipeline_2_copy324')]",
+			"name": "[concat(parameters('factoryName'), '/Complex_Pipeline_2_copy96')]",
 			"type": "Microsoft.DataFactory/factories/pipelines",
 			"apiVersion": "2018-06-01",
 			"properties": {
@@ -1069,7 +1069,7 @@
 			"dependsOn": []
 		},
 		{
-			"name": "[concat(parameters('factoryName'), '/Complex_Pipeline_2_copy325')]",
+			"name": "[concat(parameters('factoryName'), '/Complex_Pipeline_2_copy97')]",
 			"type": "Microsoft.DataFactory/factories/pipelines",
 			"apiVersion": "2018-06-01",
 			"properties": {
@@ -1201,7 +1201,7 @@
 			"dependsOn": []
 		},
 		{
-			"name": "[concat(parameters('factoryName'), '/Complex_Pipeline_2_copy326')]",
+			"name": "[concat(parameters('factoryName'), '/Complex_Pipeline_2_copy98')]",
 			"type": "Microsoft.DataFactory/factories/pipelines",
 			"apiVersion": "2018-06-01",
 			"properties": {
@@ -1333,7 +1333,7 @@
 			"dependsOn": []
 		},
 		{
-			"name": "[concat(parameters('factoryName'), '/Complex_Pipeline_2_copy327')]",
+			"name": "[concat(parameters('factoryName'), '/Complex_Pipeline_2_copy99')]",
 			"type": "Microsoft.DataFactory/factories/pipelines",
 			"apiVersion": "2018-06-01",
 			"properties": {
