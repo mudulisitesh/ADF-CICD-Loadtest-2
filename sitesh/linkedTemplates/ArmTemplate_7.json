@@ -13,7 +13,7 @@
 	},
 	"resources": [
 		{
-			"name": "[concat(parameters('factoryName'), '/Complex_Pipeline_2_copy77')]",
+			"name": "[concat(parameters('factoryName'), '/Complex_Pipeline_2_copy137')]",
 			"type": "Microsoft.DataFactory/factories/pipelines",
 			"apiVersion": "2018-06-01",
 			"properties": {
@@ -145,7 +145,7 @@
 			"dependsOn": []
 		},
 		{
-			"name": "[concat(parameters('factoryName'), '/Complex_Pipeline_2_copy78')]",
+			"name": "[concat(parameters('factoryName'), '/Complex_Pipeline_2_copy138')]",
 			"type": "Microsoft.DataFactory/factories/pipelines",
 			"apiVersion": "2018-06-01",
 			"properties": {
@@ -277,7 +277,7 @@
 			"dependsOn": []
 		},
 		{
-			"name": "[concat(parameters('factoryName'), '/Complex_Pipeline_2_copy79')]",
+			"name": "[concat(parameters('factoryName'), '/Complex_Pipeline_2_copy139')]",
 			"type": "Microsoft.DataFactory/factories/pipelines",
 			"apiVersion": "2018-06-01",
 			"properties": {
@@ -409,7 +409,7 @@
 			"dependsOn": []
 		},
 		{
-			"name": "[concat(parameters('factoryName'), '/Complex_Pipeline_2_copy80')]",
+			"name": "[concat(parameters('factoryName'), '/Complex_Pipeline_2_copy140')]",
 			"type": "Microsoft.DataFactory/factories/pipelines",
 			"apiVersion": "2018-06-01",
 			"properties": {
@@ -541,7 +541,7 @@
 			"dependsOn": []
 		},
 		{
-			"name": "[concat(parameters('factoryName'), '/Complex_Pipeline_2_copy81')]",
+			"name": "[concat(parameters('factoryName'), '/Complex_Pipeline_2_copy141')]",
 			"type": "Microsoft.DataFactory/factories/pipelines",
 			"apiVersion": "2018-06-01",
 			"properties": {
@@ -673,7 +673,7 @@
 			"dependsOn": []
 		},
 		{
-			"name": "[concat(parameters('factoryName'), '/Complex_Pipeline_2_copy82')]",
+			"name": "[concat(parameters('factoryName'), '/Complex_Pipeline_2_copy142')]",
 			"type": "Microsoft.DataFactory/factories/pipelines",
 			"apiVersion": "2018-06-01",
 			"properties": {
@@ -805,7 +805,7 @@
 			"dependsOn": []
 		},
 		{
-			"name": "[concat(parameters('factoryName'), '/Complex_Pipeline_2_copy83')]",
+			"name": "[concat(parameters('factoryName'), '/Complex_Pipeline_2_copy143')]",
 			"type": "Microsoft.DataFactory/factories/pipelines",
 			"apiVersion": "2018-06-01",
 			"properties": {
@@ -937,7 +937,7 @@
 			"dependsOn": []
 		},
 		{
-			"name": "[concat(parameters('factoryName'), '/Complex_Pipeline_2_copy84')]",
+			"name": "[concat(parameters('factoryName'), '/Complex_Pipeline_2_copy144')]",
 			"type": "Microsoft.DataFactory/factories/pipelines",
 			"apiVersion": "2018-06-01",
 			"properties": {
@@ -1069,7 +1069,7 @@
 			"dependsOn": []
 		},
 		{
-			"name": "[concat(parameters('factoryName'), '/Complex_Pipeline_2_copy85')]",
+			"name": "[concat(parameters('factoryName'), '/Complex_Pipeline_2_copy145')]",
 			"type": "Microsoft.DataFactory/factories/pipelines",
 			"apiVersion": "2018-06-01",
 			"properties": {
@@ -1201,7 +1201,7 @@
 			"dependsOn": []
 		},
 		{
-			"name": "[concat(parameters('factoryName'), '/Complex_Pipeline_2_copy86')]",
+			"name": "[concat(parameters('factoryName'), '/Complex_Pipeline_2_copy146')]",
 			"type": "Microsoft.DataFactory/factories/pipelines",
 			"apiVersion": "2018-06-01",
 			"properties": {
@@ -1333,7 +1333,7 @@
 			"dependsOn": []
 		},
 		{
-			"name": "[concat(parameters('factoryName'), '/Complex_Pipeline_2_copy87')]",
+			"name": "[concat(parameters('factoryName'), '/Complex_Pipeline_2_copy147')]",
 			"type": "Microsoft.DataFactory/factories/pipelines",
 			"apiVersion": "2018-06-01",
 			"properties": {
@@ -1465,7 +1465,7 @@
 			"dependsOn": []
 		},
 		{
-			"name": "[concat(parameters('factoryName'), '/Complex_Pipeline_2_copy88')]",
+			"name": "[concat(parameters('factoryName'), '/Complex_Pipeline_2_copy148')]",
 			"type": "Microsoft.DataFactory/factories/pipelines",
 			"apiVersion": "2018-06-01",
 			"properties": {
@@ -1597,7 +1597,7 @@
 			"dependsOn": []
 		},
 		{
-			"name": "[concat(parameters('factoryName'), '/Complex_Pipeline_2_copy89')]",
+			"name": "[concat(parameters('factoryName'), '/Complex_Pipeline_2_copy149')]",
 			"type": "Microsoft.DataFactory/factories/pipelines",
 			"apiVersion": "2018-06-01",
 			"properties": {
@@ -1729,7 +1729,7 @@
 			"dependsOn": []
 		},
 		{
-			"name": "[concat(parameters('factoryName'), '/Complex_Pipeline_2_copy90')]",
+			"name": "[concat(parameters('factoryName'), '/Complex_Pipeline_2_copy150')]",
 			"type": "Microsoft.DataFactory/factories/pipelines",
 			"apiVersion": "2018-06-01",
 			"properties": {
@@ -1861,7 +1861,7 @@
 			"dependsOn": []
 		},
 		{
-			"name": "[concat(parameters('factoryName'), '/Complex_Pipeline_2_copy91')]",
+			"name": "[concat(parameters('factoryName'), '/Complex_Pipeline_2_copy151')]",
 			"type": "Microsoft.DataFactory/factories/pipelines",
 			"apiVersion": "2018-06-01",
 			"properties": {
@@ -1993,7 +1993,7 @@
 			"dependsOn": []
 		},
 		{
-			"name": "[concat(parameters('factoryName'), '/Complex_Pipeline_2_copy92')]",
+			"name": "[concat(parameters('factoryName'), '/Complex_Pipeline_2_copy152')]",
 			"type": "Microsoft.DataFactory/factories/pipelines",
 			"apiVersion": "2018-06-01",
 			"properties": {
@@ -2125,7 +2125,7 @@
 			"dependsOn": []
 		},
 		{
-			"name": "[concat(parameters('factoryName'), '/Complex_Pipeline_2_copy93')]",
+			"name": "[concat(parameters('factoryName'), '/Complex_Pipeline_2_copy153')]",
 			"type": "Microsoft.DataFactory/factories/pipelines",
 			"apiVersion": "2018-06-01",
 			"properties": {
@@ -2257,7 +2257,7 @@
 			"dependsOn": []
 		},
 		{
-			"name": "[concat(parameters('factoryName'), '/Complex_Pipeline_2_copy94')]",
+			"name": "[concat(parameters('factoryName'), '/Complex_Pipeline_2_copy154')]",
 			"type": "Microsoft.DataFactory/factories/pipelines",
 			"apiVersion": "2018-06-01",
 			"properties": {
@@ -2389,139 +2389,7 @@
 			"dependsOn": []
 		},
 		{
-			"name": "[concat(parameters('factoryName'), '/Complex_Pipeline_2_copy95')]",
-			"type": "Microsoft.DataFactory/factories/pipelines",
-			"apiVersion": "2018-06-01",
-			"properties": {
-				"activities": [
-					{
-						"name": "Web1",
-						"type": "WebActivity",
-						"dependsOn": [],
-						"policy": {
-							"timeout": "0.12:00:00",
-							"retry": 0,
-							"retryIntervalInSeconds": 30,
-							"secureOutput": false,
-							"secureInput": false
-						},
-						"userProperties": [],
-						"typeProperties": {
-							"method": "GET",
-							"headers": {},
-							"url": "www.google.com"
-						}
-					},
-					{
-						"name": "Web2",
-						"type": "WebActivity",
-						"dependsOn": [
-							{
-								"activity": "Web1",
-								"dependencyConditions": [
-									"Completed"
-								]
-							}
-						],
-						"policy": {
-							"timeout": "0.12:00:00",
-							"retry": 0,
-							"retryIntervalInSeconds": 30,
-							"secureOutput": false,
-							"secureInput": false
-						},
-						"userProperties": [],
-						"typeProperties": {
-							"method": "GET",
-							"headers": {},
-							"url": "www.google.com"
-						}
-					},
-					{
-						"name": "Web3",
-						"type": "WebActivity",
-						"dependsOn": [
-							{
-								"activity": "Web2",
-								"dependencyConditions": [
-									"Completed"
-								]
-							}
-						],
-						"policy": {
-							"timeout": "0.12:00:00",
-							"retry": 0,
-							"retryIntervalInSeconds": 30,
-							"secureOutput": false,
-							"secureInput": false
-						},
-						"userProperties": [],
-						"typeProperties": {
-							"method": "GET",
-							"headers": {},
-							"url": "www.google.com"
-						}
-					},
-					{
-						"name": "Web3_copy1",
-						"type": "WebActivity",
-						"dependsOn": [
-							{
-								"activity": "Web3",
-								"dependencyConditions": [
-									"Completed"
-								]
-							}
-						],
-						"policy": {
-							"timeout": "0.12:00:00",
-							"retry": 0,
-							"retryIntervalInSeconds": 30,
-							"secureOutput": false,
-							"secureInput": false
-						},
-						"userProperties": [],
-						"typeProperties": {
-							"method": "GET",
-							"headers": {},
-							"url": "www.google.com"
-						}
-					},
-					{
-						"name": "Web3_copy1_copy1",
-						"type": "WebActivity",
-						"dependsOn": [
-							{
-								"activity": "Web3_copy1",
-								"dependencyConditions": [
-									"Completed"
-								]
-							}
-						],
-						"policy": {
-							"timeout": "0.12:00:00",
-							"retry": 0,
-							"retryIntervalInSeconds": 30,
-							"secureOutput": false,
-							"secureInput": false
-						},
-						"userProperties": [],
-						"typeProperties": {
-							"method": "GET",
-							"headers": {},
-							"url": "www.google.com"
-						}
-					}
-				],
-				"policy": {
-					"elapsedTimeMetric": {}
-				},
-				"annotations": []
-			},
-			"dependsOn": []
-		},
-		{
-			"name": "[concat(parameters('factoryName'), '/Complex_Pipeline_2_copy96')]",
+			"name": "[concat(parameters('factoryName'), '/Complex_Pipeline_2_copy155')]",
 			"type": "Microsoft.DataFactory/factories/pipelines",
 			"apiVersion": "2018-06-01",
 			"properties": {
