@@ -21,7 +21,7 @@ jobs:
           git config --global user.email "mudulisitesh@gmail.com"
           git config --global user.name "Sitesh"
 
-          git remote add dest https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/mudulisitesh/ADF-CICD-Loadtest.git
+          git remote add dest https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/mudulisitesh/ADF-CICD-Loadtest-2.git
           # Push the current branch
           git push dest ${{ github.ref_name }} --force
 
