@@ -1,0 +1,9 @@
+{
+	"name": "sitesh",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "cac6f397-5139-446e-902c-1a344ed5b68d",
+		"tenantId": "eb51530d-ba4a-40e2-9559-4498f1a6c06c"
+	}
+}
